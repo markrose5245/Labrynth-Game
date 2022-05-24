@@ -15,6 +15,11 @@ When you work on your side of the project make sure I am not working on the same
       DO NOT UPLOAD DIRECTLY TO MAIN BRANCH AS STRUCTURAL ISSUES MAY ARISE
 To upload project files to GitHub drag and drop into the webpage
   Make sure you are under the correct branch before you upload to avoid issues
+Pull Request your work when you are finished and want to add it to the main branch
+  Use the Base Dropdown to select the branch you wish to merge your changes into
+  Use the Compare Dropdown to select the branch you made the changes in
+  Add any comments or information about what was in the pull request
+  Create the request. It will go to me for evaluation and comparison
 Check Projects to update your tasks in progress/completed
   Programming has its own project I left blank so organize it how you like
 
