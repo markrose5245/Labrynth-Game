@@ -20,6 +20,8 @@ Pull Request your work when you are finished and want to add it to the main bran
   Use the Compare Dropdown to select the branch you made the changes in
   Add any comments or information about what was in the pull request
   Create the request. It will go to me for evaluation and comparison
+  Website for rundowns on Pull Requests 
+  https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 Check Projects to update your tasks in progress/completed
   Programming has its own project I left blank so organize it how you like
 
