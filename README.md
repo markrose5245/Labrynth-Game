@@ -1,7 +1,7 @@
 # Labyrinth-Game
 Mark Rose and Theron Jones 
 Download link for Unity Hub Personal https://unity.com/download
-Choose your Unity Verson 2020.3.8f1
+Choose your Unity Verson ___
 Download zip file for project in GitHub 
   Click Code with dropdown
   Download Zip file
